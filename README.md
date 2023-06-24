@@ -6,9 +6,6 @@ Formado em Engenharia Elétrica há 5 anos, está buscando uma migração de car
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgomesr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mgomesr&repo=tiktok&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Linguagens Utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgomesr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
