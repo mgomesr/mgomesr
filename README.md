@@ -1,8 +1,8 @@
 ### Hi everyone! 👋
 
 ##### Sobre Matheus
-Sou formado em Engenharia Elétrica e tenho paixão pela área de programação. Estou iniciando os estudos como desenvolvedor Front-End e pretendo me desenvolver e melhorar a cada dia.
-Possuo conhecimento nas linguagens de marcação HTML e CSS e nas linguagens lógicas de JavaScript e TypeScript. Estou me desenvolvendo na programação com o framework Angular.
+Sou formado em Engenharia Elétrica e tenho paixão pela área de programação. Estou iniciando os estudos como desenvolvedor Front-End e pretendo melhorar e aprender mais a cada dia.
+Possuo conhecimento nas linguagens de marcação HTML e CSS e nas linguagens lógicas JavaScript e TypeScript. Estou me aperfeiçoando no framework Angular.
 
 ### Detalhes
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgomesr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
